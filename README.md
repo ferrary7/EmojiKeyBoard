@@ -4,5 +4,5 @@
 <li>Lightweight 😁</li>
 <li>Fast 🔥</li>
 <li>Tones ⚪🟡🟠⚫</li>
-<li>Auto-Select <span style="background-color:blue";>💗</span></li>
+<li>Auto-Select 👍</li>
 <li>Simple 🙂</li>
